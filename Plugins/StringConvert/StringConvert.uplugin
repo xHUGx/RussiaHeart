@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "StringConvert",
+	"Description": "",
+	"Category": "StringConvert",
+	"CreatedBy": "Goodriver2",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "badblueprint.com",
+	"SupportURL": "",
+	"EngineVersion": "5.4.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "StringConvert",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac",
+				"IOS"
+			]
+		}
+	]
+}
